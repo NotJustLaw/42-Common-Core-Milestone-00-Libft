@@ -1,0 +1,1 @@
+Hello everyone, this is my implementation of the 42-Milestone-00-Libft project. I highly suggest to use this as a help, and not actually copying from here. Its good to think the logic by your own, there are a lot of things this code can be upgraded in, but I took the liberty to leave it at it came out of my mind at the moment I did it. Hope it helps!
