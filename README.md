@@ -1,1 +1,5 @@
-Hello everyone, this is my implementation of the 42-Milestone-00-Libft project. I highly suggest to use this as a help, and not actually copying and pasting from here. Its good to think the logic in your own way, there are a lot of aspects this code can be upgraded in, but I took the liberty to leave it as it came out of my mind at the moment I did it. Hope it helps! If you have any doubts you can dm me in discord as not.just.law or in slack if you are part of the 42 community as skuhlcke
+Project: Libft
+
+- The Mission: Recreating the standard C library (libc) functions from scratch.
+
+- Technical Description: Engineered a custom library of 40+ functions to handle string manipulation, memory allocation (malloc/free), and linked list management. This project established a deep understanding of how data is stored and manipulated at the byte level.
